@@ -1,4 +1,4 @@
 package br.com.bycoders.desafio.enuns;
 
-public class TipoEnum {
+public enum TipoEnum {
 }
